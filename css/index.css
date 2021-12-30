@@ -1,0 +1,27 @@
+.product-list {
+
+}
+
+.product {
+    
+}
+.product:hover{
+    background-color:gainsboro;
+    cursor: pointer;
+
+}
+
+.product-img img{
+    width:  100%;
+}
+
+.product-name {
+    text-align: center;
+    font-weight: bold;
+}
+
+.product-price {
+    text-align: center;
+    font-weight: bold;            
+}
+
